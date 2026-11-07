@@ -1,4 +1,4 @@
-# Wizardry Tutoring demo
+# Oakridge Learning demo
 
 Standalone static presentation site. Only Get Started links from the homepage; it opens a five-question assessment with scoring, answer review and a sample study PDF. Navigation and account labels are presentation-only. No accounts, payments, data collection or backend.
 
